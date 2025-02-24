@@ -1,0 +1,218 @@
+Label	#1 String	#2 String
+1	set timer 5 minute	start 5minute countdown
+1	start 5minute countdown	need 5minute timer
+1	need 5minute timer	create timer 5 minute
+1	create timer 5 minute	please begin countdown 5 minute
+1	please begin countdown 5 minute	start timer lasting 5 minute
+1	start timer lasting 5 minute	set alarm five minute
+1	set alarm five minute	count 5 minute
+1	count 5 minute	begin timer 5 minute
+1	begin timer 5 minute	need alarm go 5 minute
+1	need alarm go 5 minute	activate fiveminute timer
+1	activate fiveminute timer	countdown 5 minute please
+1	countdown 5 minute please	start counting 5 minute
+1	start counting 5 minute	set clock 5minute alert
+1	set clock 5minute alert	create fiveminute countdown
+1	create fiveminute countdown	time 5 minute
+1	time 5 minute	set reminder 5 minute later
+1	set reminder 5 minute later	need stopwatch 5 minute
+1	need stopwatch 5 minute	start alarm 5 minute
+1	start alarm 5 minute	launch 5minute timer
+1	launch 5minute timer	put timer 5 minute
+1	put timer 5 minute	time 5 minute
+1	time 5 minute	need alert five minute
+1	need alert five minute	remind 5 minute
+1	remind 5 minute	give countdown five minute
+1	give countdown five minute	please activate 5minute alarm
+1	please activate 5minute alarm	time 5 minute
+1	time 5 minute	want timer ring 5 minute
+1	want timer ring 5 minute	notify 5 minute pas
+1	notify 5 minute pas	let know 5 minute
+1	play music	put song
+1	put song	want hear tune
+1	want hear tune	start playing song
+1	start playing song	play favorite music
+1	play favorite music	queue music
+1	queue music	turn music please
+1	turn music please	’ like listen song
+1	’ like listen song	put background music
+1	put background music	begin playing playlist
+1	begin playing playlist	start daily mix
+1	start daily mix	play relaxing song
+1	play relaxing song	find good song play
+1	find good song play	shuffle playlist
+1	shuffle playlist	need music focus
+1	need music focus	turn goto track
+1	turn goto track	launch favorite playlist
+1	launch favorite playlist	play something upbeat
+1	play something upbeat	shuffle favorite song
+1	shuffle favorite song	play instrumental music
+1	play instrumental music	let ’ hear jazz
+1	let ’ hear jazz	start random song
+1	start random song	dj
+1	dj	begin road trip playlist
+1	begin road trip playlist	play something trending
+1	play something trending	find song suit mood
+1	find song suit mood	play latest pop song
+1	play latest pop song	need calming sound
+1	need calming sound	turn party music
+1	turn party music	surprise song
+1	whats weather like today	give weather update
+1	give weather update	hows weather outside
+1	hows weather outside	check forecast
+1	check forecast	tell going rain
+1	tell going rain	sunny today
+1	sunny today	check weather
+1	check weather	cold outside
+1	cold outside	need umbrella today
+1	need umbrella today	’ temperature right
+1	’ temperature right	tell today ’ weather forecast
+1	tell today ’ weather forecast	give latest weather condition
+1	give latest weather condition	’ sky looking today
+1	’ sky looking today	warm today
+1	warm today	windy outside
+1	windy outside	’ forecast evening
+1	’ forecast evening	’ humidity today
+1	’ humidity today	check weather weekend
+1	check weather weekend	snowing outside
+1	snowing outside	tell ’ going storm
+1	tell ’ going storm	’ weather tomorrow
+1	’ weather tomorrow	heatwave expected
+1	heatwave expected	’ uv index today
+1	’ uv index today	’ air quality right
+1	’ air quality right	tell ’ foggy today
+1	tell ’ foggy today	safe go outside
+1	safe go outside	’ wind speed currently
+1	’ wind speed currently	likely rain afternoon
+1	likely rain afternoon	check hourly forecast
+1	check hourly forecast	tell bring jacket
+1	turn living room light	dim bedroom light
+1	dim bedroom light	turn kitchen light
+1	turn kitchen light	adjust thermostat 72 degree
+1	adjust thermostat 72 degree	close blind bedroom
+1	close blind bedroom	increase fan speed living room
+1	increase fan speed living room	turn air conditioner
+1	turn air conditioner	lower temperature two degree
+1	lower temperature two degree	switch light
+1	switch light	lock front door
+1	lock front door	check window open
+1	check window open	turn tv
+1	turn tv	turn heater
+1	turn heater	change thermostat cool mode
+1	change thermostat cool mode	switch light warm white
+1	switch light warm white	set brightness 50
+1	set brightness 50	turn security camera
+1	turn security camera	close garage door
+1	close garage door	activate home alarm system
+1	activate home alarm system	turn appliance
+1	turn appliance	turn humidifier
+1	turn humidifier	check oven still
+1	check oven still	enable night mode light
+1	enable night mode light	adjust living room curtain
+1	adjust living room curtain	lower blind halfway
+1	lower blind halfway	turn sound system
+1	turn sound system	put coffee maker
+1	put coffee maker	set light reading mode
+1	set light reading mode	disable smart device
+1	disable smart device	activate sleep mode electronics
+1	send message john	text sarah
+1	text sarah	write message friend
+1	write message friend	send quick text dad
+1	send quick text dad	need message bos
+1	need message bos	send whatsapp message lisa
+1	send whatsapp message lisa	email colleague meeting
+1	email colleague meeting	shoot text mike
+1	shoot text mike	send dm instagram
+1	send dm instagram	reply jane ’ last message
+1	reply jane ’ last message	forward message tom
+1	forward message tom	send voice message alex
+1	send voice message alex	text mom im way
+1	text mom im way	write new email professor
+1	write new email professor	send slack message team
+1	send slack message team	message partner
+1	message partner	send reminder assistant
+1	send reminder assistant	reply thanks steve
+1	reply thanks steve	tell jake ’ call later
+1	tell jake ’ call later	text gym trainer schedule
+1	text gym trainer schedule	send message group chat
+1	send message group chat	forward latest update hr
+1	forward latest update hr	notify manager ’ sick today
+1	notify manager ’ sick today	message brother facebook
+1	message brother facebook	send sm landlord
+1	send sm landlord	ask lisa ’ free lunch
+1	ask lisa ’ free lunch	write ‘ see soon ’ mom
+1	write ‘ see soon ’ mom	text best friend good luck
+1	text best friend good luck	message partner ‘ love ’
+1	message partner ‘ love ’	send quick text ‘ ’
+0	play something trending	start alarm 5 minute
+0	launch favorite playlist	put coffee maker
+0	send sm landlord	turn kitchen light
+0	write message friend	turn humidifier
+0	activate home alarm system	tell jake ’ call later
+0	create timer 5 minute	start playing song
+0	heatwave expected	begin playing playlist
+0	activate fiveminute timer	message partner
+0	need music focus	activate sleep mode electronics
+0	lock front door	send message group chat
+0	turn party music	tell bring jacket
+0	shuffle favorite song	dim bedroom light
+0	please begin countdown 5 minute	write new email professor
+0	check window open	’ uv index today
+0	notify 5 minute pas	turn air conditioner
+0	check weather	text gym trainer schedule
+0	write message friend	play something trending
+0	launch favorite playlist	’ weather tomorrow
+0	please activate 5minute alarm	send sm landlord
+0	launch favorite playlist	hows weather outside
+0	activate fiveminute timer	’ air quality right
+0	write new email professor	check hourly forecast
+0	tell ’ going storm	start counting 5 minute
+0	dj	adjust thermostat 72 degree
+0	’ weather tomorrow	switch light warm white
+0	activate fiveminute timer	tell today ’ weather forecast
+0	ask lisa ’ free lunch	start random song
+0	’ forecast evening	change thermostat cool mode
+0	start playing song	adjust thermostat 72 degree
+0	turn living room light	check forecast
+0	send message john	launch 5minute timer
+0	shuffle favorite song	start counting 5 minute
+0	email colleague meeting	play instrumental music
+0	tell today ’ weather forecast	lower blind halfway
+0	turn appliance	need alarm go 5 minute
+0	shoot text mike	snowing outside
+0	play instrumental music	turn heater
+0	’ forecast evening	forward message tom
+0	need message bos	turn humidifier
+0	countdown 5 minute please	send message group chat
+0	snowing outside	time 5 minute
+0	set brightness 50	forward message tom
+0	message partner ‘ love ’	turn security camera
+0	snowing outside	reply jane ’ last message
+0	play something trending	send voice message alex
+0	hows weather outside	turn sound system
+0	lower blind halfway	ask lisa ’ free lunch
+0	check weather	turn air conditioner
+0	shuffle playlist	send quick text dad
+0	put timer 5 minute	turn tv
+0	set reminder 5 minute later	’ humidity today
+0	likely rain afternoon	count 5 minute
+0	create timer 5 minute	play something upbeat
+0	shuffle playlist	change thermostat cool mode
+0	turn humidifier	play something trending
+0	’ like listen song	tell jake ’ call later
+0	send voice message alex	play music
+0	begin timer 5 minute	start random song
+0	play something trending	set alarm five minute
+0	shuffle favorite song	send slack message team
+0	play latest pop song	forward message tom
+0	give countdown five minute	check oven still
+0	send dm instagram	put song
+0	text gym trainer schedule	let ’ hear jazz
+0	time 5 minute	dim bedroom light
+0	put timer 5 minute	give latest weather condition
+0	send sm landlord	begin road trip playlist
+0	email colleague meeting	let know 5 minute
+0	need alarm go 5 minute	text best friend good luck
+0	write message friend	activate home alarm system
+0	give countdown five minute	text best friend good luck
+0	turn sound system	forward message tom
