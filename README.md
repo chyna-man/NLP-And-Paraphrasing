@@ -1,4 +1,4 @@
-# 📄 Paraphrase Classification – Virtual Assistant (CSI5180 Assignment 2)
+# 📄 Paraphrase Classification – NLP
 
 This repository contains the code, datasets, and report for an empirical study on paraphrase detection in the context of **Virtual Assistants**, completed as part of the **CSI5180 – Topics in AI** course at the University of Ottawa (Winter 2025).
 
