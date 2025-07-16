@@ -62,6 +62,11 @@ Key elements:
 
 ## 🧑‍💻 Author
 
+**Jason Au**
+Master’s in Digital Transformation & Innovation (Applied Data Science)
+jasonau2009@hotmail.com
+🐙[GitHub](https://github.com/chyna-man)
+
 **Usman Bashir**  
 Master’s in Digital Transformation & Innovation (Applied Data Science)  
 📧 mmub98@gmail.com  
